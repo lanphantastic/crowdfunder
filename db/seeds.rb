@@ -5,11 +5,11 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Pledge.destroy_all
-Reward.destroy_all
-User.destroy_all
-Comment.destroy_all
-Project.destroy_all
+# Pledge.destroy_all
+# Reward.destroy_all
+# User.destroy_all
+# Comment.destroy_all
+# Project.destroy_all
 
 
 5.times do
